@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "toastr/rails"
 
 RSpec.configure do |config|
